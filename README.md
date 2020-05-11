@@ -26,5 +26,12 @@ To verify that Django can be seen by Python, type ``python`` from your shell.
 Alternatively you can also check the version using the command
 - django-admin --version
 
+## Reasons to learn Django
+
+1. Django is fast
+2. Lots of components are already built in. 
+3. Secure
+4. Scalable
+
 
 
