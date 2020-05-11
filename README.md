@@ -33,7 +33,7 @@ Alternatively you can also check the version using the command
 3. Secure
 4. Flexible and Scalable
 
-## Start the first project
+## Start your first project
 
 Open command prompt and switch to your virtual enviroment.
 
