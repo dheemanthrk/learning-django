@@ -49,5 +49,4 @@ We will learn about the files later, first let us run the app.
 
 In the command prompt move to the basicapp directory.
 
-Use the command `python manage.py runserver`
-
+Use the command `python manage.py runserver`.
