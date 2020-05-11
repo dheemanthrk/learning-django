@@ -28,10 +28,18 @@ Alternatively you can also check the version using the command
 
 ## Reasons to learn Django
 
-1. Django is fast
+1. Django is fast and realiable
 2. Lots of components are already built in. 
 3. Secure
-4. Scalable
+4. Flexible and Scalable
 
+## Start the first project
 
+Open command prompt and switch to your virtual enviroment.
+
+Make an empty directory `mkdir projects`.
+
+Switch to that directory `cd projects`.
+
+Create a baic Django starter app using `django-admin startproject basicapp`.
 
