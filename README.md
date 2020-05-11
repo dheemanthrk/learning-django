@@ -1,4 +1,4 @@
-# learning-django
+# Learning-django
 
 ## To install Django
 
@@ -43,5 +43,11 @@ Switch to that directory `cd projects`.
 
 Create a baic Django starter app using `django-admin startproject basicapp`.
 
+Now you will see a new folder named basicapp consisting of few files.
 
+We will learn about the files later, first let us run the app.
+
+In the command prompt move to the basicapp directory.
+
+Use the command `python manage.py runserver`
 
