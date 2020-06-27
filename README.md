@@ -4,7 +4,7 @@
 
 First install a virtual environment which makes easier to work with different versions and will not mess up the existing version, if any.
 
-To install virtual env copy the command to your cmd
+To install virtual environment copy the command to your cmd
 - `py -m pip install virtualenvwrapper-win`
 
 Now create a virtual environment
